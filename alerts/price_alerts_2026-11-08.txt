@@ -1,0 +1,568 @@
+======================================================================
+SAMSUNG PRODUCT PRICE INTELLIGENCE REPORT - 2026-11-08 04:55:21
+======================================================================
+
+1. PRICE DROPS DETECTED: 31
+--------------------------------------------------
+ • [Sound Devices] B-series Soundbar HW-B53CF 2.1 ch Subwoofer (HW-B53CF/ZC)
+   Dropped from $249.99 -> $149.99 (-$100.00 | -40.0%)
+ • [Monitors] 24" Essential Monitor S3 S30GD FHD 100Hz (LS22D300GANXZA)
+   Dropped from $129.99 -> $89.99 (-$40.00 | -30.8%)
+ • [Monitors] 24" Odyssey G3 G30D FHD 180Hz Gaming Monitor (LS24DG302ENXZA)
+   Dropped from $209.99 -> $149.99 (-$60.00 | -28.6%)
+ • [Monitors] 24" Essential Monitor S3 S32GF Full HD 120Hz (LS24F320GANXZA)
+   Dropped from $169.99 -> $109.99 (-$60.00 | -35.3%)
+ • [Monitors] 24" Essential Monitor S3 S30GD FHD 100Hz (LS27D300GANXZA)
+   Dropped from $189.99 -> $124.99 (-$65.00 | -34.2%)
+ • [Monitors] 32" ViewFinity S8 S80UH 4K UHD 60Hz HRM Monitor (2026) (LS27H802UANXGO)
+   Dropped from $499.99 -> $349.99 (-$150.00 | -30.0%)
+ • [Monitors] 32" ViewFinity Black S7 S70D 4K UHD Monitor (LS32D702EANXGO)
+   Dropped from $429.99 -> $319.99 (-$110.00 | -25.6%)
+ • [Monitors] 32" Smart Monitor M8 M80F 4K Samsung Vision AI (LS32FM803UNXZA)
+   Dropped from $899.99 -> $749.99 (-$150.00 | -16.7%)
+ • [Monitors] 32" Smart Monitor M9 M90SF 4K Smart HAS OLED Samsung Vision... (LS32FM900SNXZA)
+   Dropped from $1,999.99 -> $1,499.99 (-$500.00 | -25.0%)
+ • [Monitors] 32" ViewFinity S8 S80UH 4K UHD 60Hz HRM Monitor (2026) (LS32H802UANXGO)
+   Dropped from $549.99 -> $399.99 (-$150.00 | -27.3%)
+ • [Monitors] 49" Odyssey OLED G9 G91SD DQHD (LS49DG912SNXZA)
+   Dropped from $1,549.99 -> $1,199.99 (-$350.00 | -22.6%)
+ • [Monitors] 57" Odyssey Neo G9 DUHD 240Hz Dual 4K UHD Gaming Monitor G9... (LS57CG952NNXZA)
+   Dropped from $3,299.99 -> $2,199.99 (-$1,100.00 | -33.3%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026) (QN48S90HAEXZC)
+   Dropped from $1,499.99 -> $1,399.99 (-$100.00 | -6.7%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) (QN55QN70HAFXZC)
+   Dropped from $1,099.99 -> $899.99 (-$200.00 | -18.2%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) (QN65QN70HAFXZC)
+   Dropped from $1,399.99 -> $1,099.99 (-$300.00 | -21.4%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026) (QN65S90HAEXZC)
+   Dropped from $2,399.99 -> $2,199.99 (-$200.00 | -8.3%)
+ • [TVs] 55" OLED S92H 4K Samsung Vision AI Smart TV (2026) (QN65S92HAEXZC)
+   Dropped from $2,499.99 -> $2,299.99 (-$200.00 | -8.0%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) (QN75QN70HAFXZC)
+   Dropped from $1,999.99 -> $1,599.99 (-$400.00 | -20.0%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) (QN75QN80HAFXZC)
+   Dropped from $1,799.99 -> $1,699.99 (-$100.00 | -5.6%)
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026) (QN75QN82HAFXZC)
+   Dropped from $1,899.99 -> $1,799.99 (-$100.00 | -5.3%)
+ • [TVs] 75" Neo QLED QN990F 8K Vision AI Smart TV (QN75QN990FFXZC)
+   Dropped from $7,499.99 -> $6,499.99 (-$1,000.00 | -13.3%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026) (QN83S90HAEXZC)
+   Dropped from $5,499.99 -> $4,799.99 (-$700.00 | -12.7%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) (QN85QN80HAFXZC)
+   Dropped from $2,599.99 -> $2,199.99 (-$400.00 | -15.4%)
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026) (QN85QN82HAFXZC)
+   Dropped from $2,699.99 -> $2,299.99 (-$400.00 | -14.8%)
+ • [TVs] 55" The Frame LS03HE 4K Samsung Vision AI Smart TV (2026) (QN98LS03HEFXZC)
+   Dropped from $6,999.99 -> $5,999.99 (-$1,000.00 | -14.3%)
+ • [TVs] 40" Full HD F6000 Smart TV (UN32F6000FFXZC)
+   Dropped from $299.99 -> $279.99 (-$20.00 | -6.7%)
+ • [TVs] 40" Full HD F6000 Smart TV (UN40F6000FFXZC)
+   Dropped from $349.99 -> $299.99 (-$50.00 | -14.3%)
+ • [TVs] 85" Mini LED M72H 4K Samsung Vision AI Smart TV (2026) (UN55M72HAFXZC)
+   Dropped from $849.99 -> $649.99 (-$200.00 | -23.5%)
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026) (UN65M82HAFXZC)
+   Dropped from $1,199.99 -> $899.99 (-$300.00 | -25.0%)
+ • [TVs] 75" Mini LED M80H 4K Samsung Vision AI Smart TV 2026 (UN75M80HAFXZC)
+   Dropped from $1,699.99 -> $1,299.99 (-$400.00 | -23.5%)
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026) (UN75M82HAFXZC)
+   Dropped from $1,699.99 -> $1,299.99 (-$400.00 | -23.5%)
+
+2. ALL-TIME LOW PRICES: 198
+--------------------------------------------------
+ • [Laundry] Electric Dryer
+
+Sensor Dry
+
+ 
+
+7.2 cu.ft. is at an ALL-TIME LOW: $749.99
+ • [Laundry] Electric Dryer
+
+Sensor Dry | Reversible Door
+
+ 
+
+7.5 cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] Electric Dryer
+
+Steam Sanitize+ | Sensor Dry
+
+ 
+
+7.5 cu.ft. is at an ALL-TIME LOW: $999.99
+ • [Laundry] Electric Dryer
+
+Sensor Dry | SmartThings Wifi
+
+ 
+
+7.4 cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] 7.5 cu. ft. Dryers with Steam Sanitize and ENERGY STAR Cert... is at an ALL-TIME LOW: $1,299.99
+ • [Laundry] Electric Dryer
+
+Steam Sanitize+ | SmartThings Wifi
+
+ 
+
+7.4 cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] Electric Dryer Pet Care Dry Cycle
+
+| Steam Sanitize+
+
+ 
+
+7.4 cu.ft. is at an ALL-TIME LOW: $1,299.99
+ • [Laundry] Top Load Dryer Steam
+
+Sanitize+ | SmartThings Wifi
+
+ 
+
+7.4 cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] Gas Dryer
+
+Flexible Installation | Steam Sanitize+ 7.... is at an ALL-TIME LOW: $1,149.99
+ • [Laundry] 5.2 Cu.Ft. Top Load Washer and 7.5 Cu.Ft. Dryer with Sensor... is at an ALL-TIME LOW: $1,499.98
+ • [Laundry] 5.0 Cu.Ft. Top Load Washer and 7.5 Cu.Ft. Dryer with Sensor... is at an ALL-TIME LOW: $1,499.98
+ • [Laundry] 6.0 Cu.Ft. Top Load Washer and 7.4 Cu.Ft. Dryer with Steam is at an ALL-TIME LOW: $1,899.98
+ • [Laundry] 7550 Black Top Load Washer and Dryer Pair with Pet Care Cyc... is at an ALL-TIME LOW: $2,599.98
+ • [Laundry] 8300 Black Front Load Washer and Dryer Pair with Large Capa... is at an ALL-TIME LOW: $2,599.98
+ • [Laundry] 5.8 Cu.Ft. Bespoke Washer with Super Speed and 7.5 Cu.Ft. D... is at an ALL-TIME LOW: $2,599.98
+ • [Laundry] Washer & Electric Dryer Self Clean+ | Sensor Dry 5.2 cu.ft.... is at an ALL-TIME LOW: $1,899.98
+ • [Audio & Buds] Galaxy Flip8 + Buds4 Bundle is at an ALL-TIME LOW: $1,449.99
+ • [Audio & Buds] Galaxy Fold8 + Buds4 Pro Bundle is at an ALL-TIME LOW: $2,199.99
+ • [Watches] Galaxy Fold8 + Watch9 Bundle is at an ALL-TIME LOW: $2,368.99
+ • [Audio & Buds] Galaxy Fold8 Ultra + Buds4 Pro Bundle is at an ALL-TIME LOW: $2,499.99
+ • [Watches] Galaxy Fold8 Ultra + Watch9 Bundle is at an ALL-TIME LOW: $2,668.99
+ • [Audio & Buds] Galaxy S26 + Buds4 Bundle is at an ALL-TIME LOW: $1,299.99
+ • [Audio & Buds] Galaxy S26 Ultra + Buds4 Pro Bundle is at an ALL-TIME LOW: $1,849.99
+ • [Watches] Galaxy S26 Ultra + Watch9 Bundle is at an ALL-TIME LOW: $2,061.99
+ • [Sound Devices] B-series Soundbar HW-B53CF 2.1 ch Subwoofer is at an ALL-TIME LOW: $149.99
+ • [Sound Devices] Music Studio 7 LS70H WiFi-Bluetooth Wireless Speaker (2026) is at an ALL-TIME LOW: $499.99
+ • [Sound Devices] Q-series Soundbar HW-QS700F 3.1.2 ch Subwoofer (2025) is at an ALL-TIME LOW: $699.99
+ • [Monitors] 24" Essential Monitor S3 S30GD FHD 100Hz is at an ALL-TIME LOW: $89.99
+ • [Monitors] 24" Odyssey G3 G30D FHD 180Hz Gaming Monitor is at an ALL-TIME LOW: $149.99
+ • [Monitors] 24 Inch Essential Monitor G3 G35H FHD 144Hz (2026) is at an ALL-TIME LOW: $179.99
+ • [Monitors] 27" M7 Smart UHD Monitor with Smart TV Apps and mobile con... is at an ALL-TIME LOW: $649.99
+ • [Monitors] 27" Essential Monitor S3 S30GD FHD 100Hz with IPS panel is at an ALL-TIME LOW: $149.99
+ • [Monitors] 24" Inch Essential Monitor G3 G31H FHD 144Hz (2026) is at an ALL-TIME LOW: $129.99
+ • [Monitors] 32" ViewFinity Black S7 S70D 4K UHD Monitor is at an ALL-TIME LOW: $319.99
+ • [Monitors] 32" ViewFinity Black S8 S80UD 4K UHD USB C HAS KVM Monitor is at an ALL-TIME LOW: $549.99
+ • [Monitors] 32" Smart Monitor M8 M80F 4K Samsung Vision AI is at an ALL-TIME LOW: $749.99
+ • [Monitors] 32" ViewFinity S8 S80UH 4K UHD 60Hz HRM Monitor (2026) is at an ALL-TIME LOW: $399.99
+ • [Monitors] 24 Inch Essential Monitor G3 G35H FHD 144Hz (2026) is at an ALL-TIME LOW: $299.99
+ • [Monitors] 27 Inch Odyssey G5 G55H QHD 180Hz Gaming Monitor (2026) is at an ALL-TIME LOW: $349.99
+ • [Monitors] 49" Odyssey OLED G9 Gaming Monitor G95SC is at an ALL-TIME LOW: $2,199.99
+ • [Cooking Appliances] Trim Kit for Countertop Microwave, MA-TK8020TG/AC is at an ALL-TIME LOW: $234.99
+ • [Cooking Appliances] Over the Range Microwave Edge to Edge Glass Display Auto C... is at an ALL-TIME LOW: $524.99
+ • [Cooking Appliances] Over the Range Smart Microwave Glass Touch Control Auto Con... is at an ALL-TIME LOW: $499.99
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $12,999.99
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,799.99
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,999.99
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,499.99
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $3,999.99
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,999.99
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $4,999.99
+ • [Cooking Appliances] Countertop Microwave Sensor Cooking | 1.9 cu.ft. is at an ALL-TIME LOW: $479.99
+ • [Cooking Appliances] Countertop Microwave Sensor Cooking | 1.9 cu.ft. is at an ALL-TIME LOW: $399.99
+ • [Cooking Appliances] Electric Freestanding Range
+
+Thermal Oven with Steam Clean
+
+ 
+
+6.3 cu.ft. is at an ALL-TIME LOW: $999.99
+ • [Cooking Appliances] Hood Extension Kit is at an ALL-TIME LOW: $499.99
+ • [Cooking Appliances] Hood Extension Kit is at an ALL-TIME LOW: $699.99
+ • [Cooking Appliances] Hood Extension Kit is at an ALL-TIME LOW: $599.99
+ • [Cooking Appliances] Hood Recirculation Kit is at an ALL-TIME LOW: $89.99
+ • [Cooking Appliances] Hood Recirculation Kit is at an ALL-TIME LOW: $99.99
+ • [Cooking Appliances] Hood Replacement Charcoal Filter Kit is at an ALL-TIME LOW: $69.99
+ • [Cooking Appliances] Hood Replacement Charcoal Filter Kit is at an ALL-TIME LOW: $79.99
+ • [Computers] Galaxy Book6 Pro (14", Ultra 7), a Copilot+ PC is at an ALL-TIME LOW: $3,069.00
+ • [Computers] Galaxy Book6 Ultra (16", Core Ultra X7, 32GB), Copilot+ PC is at an ALL-TIME LOW: $4,199.99
+ • [Cooking Appliances] Double Wall Oven
+
+Steam Cook | Dual Convection
+
+ 
+
+7.0 cu. ft. is at an ALL-TIME LOW: $4,099.99
+ • [Cooking Appliances] Electric Slide-In Range
+
+Fan Convection with Air Fry Max (w/ Tray) ...
+
+ 
+
+6.3 cu.ft. is at an ALL-TIME LOW: $1,699.99
+ • [Cooking Appliances] Gas Slide-In
+
+Range True Convection with Air Fry Max | A...
+
+ 
+
+6.0 cu.ft. is at an ALL-TIME LOW: $2,399.99
+ • [Cooking Appliances] Gas Slide-In
+
+Range True Convection with Air Fry Max | A...
+
+ 
+
+6.0 cu.ft. is at an ALL-TIME LOW: $2,499.99
+ • [Cooking Appliances] Induction Slide-In Range
+
+True Convection | Air Fry | Air Sous Vide
+
+ 
+
+6.3 cu.ft. is at an ALL-TIME LOW: $2,299.99
+ • [Cooking Appliances] Bespoke AI Wall Oven
+
+Pro Cooking | Flex Duo
+
+ 
+
+5.1 cu. ft. is at an ALL-TIME LOW: $3,799.99
+ • [Cooking Appliances] Gas Freestanding Range
+
+Fan Convection | Air Fry
+
+ 
+
+6.0 cu.ft. is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $4,999.99
+ • [TVs] 32” The Frame Art Mode LS03C is at an ALL-TIME LOW: $599.99
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 55" QLED Q7F 4K Vision AI Smart TV is at an ALL-TIME LOW: $749.99
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $899.99
+ • [TVs] 65" OLED S85H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,299.99
+ • [TVs] 77" OLED S88H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 75" The Terrace LST9D Neo QLED 4K Full Sun Outdoor Smart TV is at an ALL-TIME LOW: $7,499.99
+ • [TVs] 65" Neo QLED QN1EH 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,199.99
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,099.99
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 65" Neo QLED 8K QN900F Vision AI Smart TV is at an ALL-TIME LOW: $2,999.99
+ • [TVs] 55" OLED S85F 4K Vision AI Smart TV is at an ALL-TIME LOW: $2,299.99
+ • [TVs] 75" The Terrace LST9D Neo QLED 4K Full Sun Outdoor Smart TV is at an ALL-TIME LOW: $9,999.99
+ • [TVs] 85" Neo QLED QN1EH 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,699.99
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,699.99
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,799.99
+ • [TVs] 65" Neo QLED 8K QN900F Vision AI Smart TV is at an ALL-TIME LOW: $3,999.99
+ • [TVs] 77" OLED S88H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,499.99
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $4,499.99
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $4,799.99
+ • [TVs] 55" OLED S95F 4K Vision AI Smart TV is at an ALL-TIME LOW: $7,599.99
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $6,299.99
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,199.99
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,299.99
+ • [TVs] 55" The Frame LS03HE 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $5,999.99
+ • [Refrigerators] Auto Ice Maker Kit is at an ALL-TIME LOW: $149.99
+ • [Refrigerators] Bottom Mount Counter Depth Refrigerator
+
+RB10 |
+
+ 
+
+Slim Design 11.... is at an ALL-TIME LOW: $1,099.99
+ • [Refrigerators] 3-Door French Door Refrigerator
+
+RF50 | Twin Cooling Plus™
+
+ 
+
+18 cu.ft. is at an ALL-TIME LOW: $1,699.98
+ • [Refrigerators] 3-Door French Door Refrigerator
+
+RF50 | Twin Cooling Plus™
+
+ 
+
+18 cu.ft. is at an ALL-TIME LOW: $1,499.98
+ • [Refrigerators] 3-Door French Door Refrigerator
+
+RF50 | Twin Cooling Plus™
+
+ 
+
+18 cu.ft. is at an ALL-TIME LOW: $1,599.98
+ • [Refrigerators] Bespoke AI 3-Door French Door Refrigerator RF60 Jumbo S |
+
+External Water & Ice Dispenser | Sphere Ic...
+
+ 
+
+26 cu.ft. is at an ALL-TIME LOW: $2,399.99
+ • [Refrigerators] 3-Door French Door Refrigerator RF70 Sleek | Zero Clearance...
+
+In-Door Tall Dispenser
+
+ 
+
+24 cu.ft. is at an ALL-TIME LOW: $2,299.99
+ • [Refrigerators] 3-Door French Door Refrigerator RF70 Sleek | Zero Clearance...
+
+In-Door Tall Dispenser
+
+ 
+
+29 cu.ft. is at an ALL-TIME LOW: $2,399.99
+ • [Refrigerators] 3-Door French Door Refrigerator RF70 Sleek | Zero Clearance...
+
+In-Door Tall Dispenser
+
+ 
+
+29 cu.ft. is at an ALL-TIME LOW: $2,299.99
+ • [Refrigerators] Column Freezer
+
+RZ40 | Convertible to Fridge | Reversible ...
+
+ 
+
+11 Cu.ft. is at an ALL-TIME LOW: $1,099.99
+ • [Smartphones] Galaxy Z Flip7 is at an ALL-TIME LOW: $1,819.99
+ • [Smartphones] Galaxy Z Flip8 (Samsung.com only) is at an ALL-TIME LOW: $1,549.99
+ • [Smartphones] Galaxy Z Flip8 (Samsung.com only) is at an ALL-TIME LOW: $1,829.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,549.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,829.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,549.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,829.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,549.99
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,829.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,399.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,679.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $3,239.99
+ • [Smartphones] Galaxy Z Fold8 (Samsung.com only) is at an ALL-TIME LOW: $2,399.99
+ • [Smartphones] Galaxy Z Fold8 (Samsung.com only) is at an ALL-TIME LOW: $2,679.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,399.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,679.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $3,239.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,399.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,679.99
+ • [Smartphones] Galaxy Z Fold8 Ultra (Samsung.com only) is at an ALL-TIME LOW: $2,699.99
+ • [Smartphones] Galaxy Z Fold8 Ultra (Samsung.com only) is at an ALL-TIME LOW: $2,979.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,699.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,979.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $3,539.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,699.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,979.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $3,539.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,699.99
+ • [Smartphones] Galaxy Z Fold8 Ultra is at an ALL-TIME LOW: $2,979.99
+ • [Watches] Galaxy Watch9 (Bluetooth, 40 mm) is at an ALL-TIME LOW: $519.99
+ • [Watches] Galaxy Watch9 (Bluetooth, 40 mm) is at an ALL-TIME LOW: $519.99
+ • [Watches] Galaxy Watch9 (LTE, 40 mm) is at an ALL-TIME LOW: $599.99
+ • [Watches] Galaxy Watch9 (LTE, 40 mm) is at an ALL-TIME LOW: $599.99
+ • [Watches] Galaxy Watch9 (Bluetooth, 44 mm) is at an ALL-TIME LOW: $559.99
+ • [Watches] Galaxy Watch9 (Bluetooth, 44 mm) is at an ALL-TIME LOW: $559.99
+ • [Watches] Galaxy Watch9 (LTE, 44 mm) is at an ALL-TIME LOW: $639.99
+ • [Watches] Galaxy Watch9 (LTE, 44 mm) is at an ALL-TIME LOW: $639.99
+ • [Watches] Galaxy Watch Ultra (2025) (LTE, 47 mm) is at an ALL-TIME LOW: $879.99
+ • [Watches] Galaxy Watch Ultra2 is at an ALL-TIME LOW: $949.99
+ • [Watches] Galaxy Watch Ultra2 is at an ALL-TIME LOW: $949.99
+ • [Smartphones] Galaxy S25 FE is at an ALL-TIME LOW: $1,049.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,049.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,189.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,049.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,189.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,049.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,189.99
+ • [Smartphones] Galaxy S25 is at an ALL-TIME LOW: $1,198.99
+ • [Smartphones] Galaxy S25 (Samsung.com only) is at an ALL-TIME LOW: $1,198.99
+ • [Smartphones] Galaxy S25 (Samsung.com only) is at an ALL-TIME LOW: $1,198.99
+ • [Smartphones] Galaxy S25 Edge is at an ALL-TIME LOW: $1,678.99
+ • [Smartphones] Galaxy S25 Edge is at an ALL-TIME LOW: $1,858.99
+ • [Tablets] Galaxy Tab Active5 5G Enterprise Edition is at an ALL-TIME LOW: $939.99
+ • [Tablets] Galaxy Tab Active5 Pro Enterprise Edition is at an ALL-TIME LOW: $1,264.99
+ • [Tablets] Galaxy Tab S10+ (12.4", Wi-Fi) is at an ALL-TIME LOW: $1,499.99
+ • [Tablets] Galaxy Tab S10+ (12.4", Wi-Fi) is at an ALL-TIME LOW: $1,799.99
+ • [Tablets] Galaxy Tab S10+ (12.4", Wi-Fi) is at an ALL-TIME LOW: $1,499.99
+ • [Tablets] Galaxy Tab S10+ (12.4", Wi-Fi) is at an ALL-TIME LOW: $1,799.99
+ • [Tablets] Galaxy Tab S12+ is at an ALL-TIME LOW: $1,649.99
+ • [Tablets] Galaxy Tab S12+ is at an ALL-TIME LOW: $1,949.99
+ • [Tablets] Galaxy Tab S12+ is at an ALL-TIME LOW: $1,649.99
+ • [Tablets] Galaxy Tab S12+ is at an ALL-TIME LOW: $1,949.99
+ • [Tablets] Galaxy Tab S12 Ultra is at an ALL-TIME LOW: $1,899.99
+ • [Tablets] Galaxy Tab S12 Ultra is at an ALL-TIME LOW: $2,199.99
+ • [Tablets] Galaxy Tab S12 Ultra is at an ALL-TIME LOW: $1,899.99
+ • [Tablets] Galaxy Tab S12 Ultra is at an ALL-TIME LOW: $2,199.99
+ • [TVs] 100" Mini LED M90H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,699.99
+ • [TVs] 40" Full HD F6000 Smart TV is at an ALL-TIME LOW: $279.99
+ • [TVs] 85" Mini LED M72H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $649.99
+ • [TVs] 55" Crystal UHD U7900H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $649.99
+ • [TVs] 85" Crystal UHD U8000F 4K Smart TV is at an ALL-TIME LOW: $749.99
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $899.99
+ • [TVs] 55" Crystal UHD U7900H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $799.99
+ • [TVs] 55" Crystal UHD U7900H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $799.99
+ • [TVs] 85" Mini LED M70H 4K Samsung Vision AI Smart TV 2026 is at an ALL-TIME LOW: $999.99
+ • [TVs] 85" Mini LED M72H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,299.99
+ • [TVs] 55" Crystal UHD U7900H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $999.99
+ • [TVs] 75" Mini LED M80H 4K Samsung Vision AI Smart TV 2026 is at an ALL-TIME LOW: $1,799.99
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $2,299.99
+ • [TVs] 55" Crystal UHD U8000H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,099.99
+ • [TVs] 98" Crystal UHD U9000H 4K Samsung Vision AI Smart TV (2026) is at an ALL-TIME LOW: $1,999.99
+ • [Laundry] Top Load Washer
+
+ActiveWave Agitator | Self Clean 5.0 cu.ft... is at an ALL-TIME LOW: $749.99
+ • [Laundry] Top Load Washer
+
+Self Clean 5.2 cu.ft. is at an ALL-TIME LOW: $749.99
+ • [Laundry] Top Load Washer
+
+ActiveWave Agitator | Active WaterJet 5.3 ... is at an ALL-TIME LOW: $899.99
+ • [Laundry] Top Load Washer
+
+Active WaterJet | Self Clean
+
+ 
+
+6.0 cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] Top Load Washer Auto Dispense
+
+| Pet Care Solution
+
+ 
+
+6.2 cu.ft. is at an ALL-TIME LOW: $1,299.99
+ • [Laundry] Bespoke AI Laundry Combo
+
+All-in-One
+
+ 
+
+| Super Speed+6.1 cu.ft. is at an ALL-TIME LOW: $2,699.99
+ • [Laundry] Washer
+
+Self Clean+ | VRT Plus™
+
+ 
+
+5.2. cu.ft. is at an ALL-TIME LOW: $999.99
+ • [Laundry] Washer
+
+Self Clean+ | VRT Plus™
+
+ 
+
+5.2. cu.ft. is at an ALL-TIME LOW: $949.99
+ • [Laundry] Washer
+
+Super Speed | Large Capacity
+
+ 
+
+5.8 cu.ft. is at an ALL-TIME LOW: $1,299.99
+ • [Laundry] Laundry HubAuto Dispenser | Sensor Dry5.3 cu.ft. is at an ALL-TIME LOW: $2,599.99
+
+3. STEEP DISCOUNTS (>= 15.0% OFF): 106
+--------------------------------------------------
+ • [Audio & Buds] Galaxy Flip8 + Buds4 Bundle: $1,449.99 (Was $1,799.98 | Save $349.99 / 19.4%)
+ • [Audio & Buds] Galaxy Fold8 + Buds4 Pro Bundle: $2,199.99 (Was $2,729.98 | Save $529.99 / 19.4%)
+ • [Watches] Galaxy Fold8 + Watch9 Bundle: $2,368.99 (Was $2,959.98 | Save $590.99 / 20.0%)
+ • [Audio & Buds] Galaxy Fold8 Ultra + Buds4 Pro Bundle: $2,499.99 (Was $3,029.98 | Save $529.99 / 17.5%)
+ • [Watches] Galaxy Fold8 Ultra + Watch9 Bundle: $2,668.99 (Was $3,259.98 | Save $590.99 / 18.1%)
+ • [Audio & Buds] Galaxy S26 + Buds4 Bundle: $1,299.99 (Was $1,649.98 | Save $349.99 / 21.2%)
+ • [Audio & Buds] Galaxy S26 Ultra + Buds4 Pro Bundle: $1,849.99 (Was $2,379.98 | Save $529.99 / 22.3%)
+ • [Watches] Galaxy S26 Ultra + Watch9 Bundle: $2,061.99 (Was $2,609.98 | Save $547.99 / 21.0%)
+ • [Sound Devices] B-series Soundbar HW-B53CF 2.1 ch Subwoofer: $149.99 (Was $249.99 | Save $100.00 / 40.0%)
+ • [Sound Devices] Music Studio 7 LS70H WiFi-Bluetooth Wireless Speaker (2026): $499.99 (Was $649.99 | Save $150.00 / 23.1%)
+ • [Sound Devices] Q-series Soundbar HW-QS700F 3.1.2 ch Subwoofer (2025): $699.99 (Was $899.99 | Save $200.00 / 22.2%)
+ • [Monitors] 24" Essential Monitor S3 S30GD FHD 100Hz: $89.99 (Was $129.99 | Save $40.00 / 30.8%)
+ • [Monitors] 24" Odyssey G3 G30D FHD 180Hz Gaming Monitor: $149.99 (Was $209.99 | Save $60.00 / 28.6%)
+ • [Monitors] 24" Essential Monitor S3 S32GF Full HD 120Hz: $109.99 (Was $169.99 | Save $60.00 / 35.3%)
+ • [Monitors] 24" Essential Monitor S3 S30GD FHD 100Hz: $124.99 (Was $189.99 | Save $65.00 / 34.2%)
+ • [Monitors] 27" Odyssey G5 G50F QHD 180Hz Gaming Monitor: $349.99 (Was $449.99 | Save $100.00 / 22.2%)
+ • [Monitors] 27" Odyssey G5 G53F QHD 200Hz Gaming Monitor: $219.99 (Was $449.99 | Save $230.00 / 51.1%)
+ • [Monitors] 27" Odyssey OLED G6 G60SF QHD 500Hz Gaming Monitor: $899.99 (Was $1,399.99 | Save $500.00 / 35.7%)
+ • [Monitors] 32" ViewFinity S8 S80UH 4K UHD 60Hz HRM Monitor (2026): $349.99 (Was $499.99 | Save $150.00 / 30.0%)
+ • [Monitors] 24" Inch Essential Monitor G3 G31H FHD 144Hz (2026): $129.99 (Was $189.99 | Save $60.00 / 31.6%)
+ • [Monitors] 32" ViewFinity Black S7 S70D 4K UHD Monitor: $319.99 (Was $429.99 | Save $110.00 / 25.6%)
+ • [Monitors] 32" Odyssey G7 G70D 4K UHD 144Hz HDR Gaming Monitor: $699.99 (Was $859.99 | Save $160.00 / 18.6%)
+ • [Monitors] 27" Odyssey G5 G50F QHD 180Hz Gaming Monitor: $269.99 (Was $399.99 | Save $130.00 / 32.5%)
+ • [Monitors] 32" Smart Monitor M8 M80F 4K Samsung Vision AI: $749.99 (Was $899.99 | Save $150.00 / 16.7%)
+ • [Monitors] 32" Smart Monitor M9 M90SF 4K Smart HAS OLED Samsung Vision...: $1,499.99 (Was $1,999.99 | Save $500.00 / 25.0%)
+ • [Monitors] 32" ViewFinity S8 S80UH 4K UHD 60Hz HRM Monitor (2026): $399.99 (Was $549.99 | Save $150.00 / 27.3%)
+ • [Monitors] 32 Inch Odyssey OLED G8 G80SH 4K UHD 240Hz Gaming OLED (202...: $1,199.99 (Was $1,899.99 | Save $700.00 / 36.8%)
+ • [Monitors] 34" ViewFinity S6 S65TC 100Hz Hi-Res Monitor: $649.99 (Was $799.99 | Save $150.00 / 18.8%)
+ • [Monitors] 37" ViewFinity S7 S70D 4K UHD Monitor: $499.99 (Was $649.99 | Save $150.00 / 23.1%)
+ • [Monitors] 40" ViewFinity S8 S85TH 5K2K WUHD 144Hz HRM Monitor (2026): $1,499.99 (Was $1,999.99 | Save $500.00 / 25.0%)
+ • [Monitors] 49" Odyssey OLED G9 G91SD DQHD: $1,199.99 (Was $1,549.99 | Save $350.00 / 22.6%)
+ • [Monitors] 57" Odyssey Neo G9 DUHD 240Hz Dual 4K UHD Gaming Monitor G9...: $2,199.99 (Was $3,299.99 | Save $1,100.00 / 33.3%)
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026): $12,999.99 (Was $19,999.99 | Save $7,000.00 / 35.0%)
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026): $1,399.99 (Was $2,299.99 | Save $900.00 / 39.1%)
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026): $1,799.99 (Was $2,999.99 | Save $1,200.00 / 40.0%)
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026): $2,999.99 (Was $4,499.99 | Save $1,500.00 / 33.3%)
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026): $2,499.99 (Was $3,999.99 | Save $1,500.00 / 37.5%)
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026): $3,999.99 (Was $5,999.99 | Save $2,000.00 / 33.3%)
+ • [TVs] 65" Micro RGB R85H 4K Samsung Vision AI Smart TV (2026): $2,999.99 (Was $5,499.99 | Save $2,500.00 / 45.5%)
+ • [TVs] 85" Micro RGB R95H 4K Samsung Vision AI Smart TV (2026): $4,999.99 (Was $8,499.99 | Save $3,500.00 / 41.2%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026): $4,999.99 (Was $6,999.99 | Save $2,000.00 / 28.6%)
+ • [TVs] 32” The Frame Art Mode LS03C: $599.99 (Was $799.99 | Save $200.00 / 25.0%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026): $1,399.99 (Was $1,799.99 | Save $400.00 / 22.2%)
+ • [TVs] 50" The Frame LS03F QLED 4K Art Mode Vision AI Smart TV: $1,099.99 (Was $1,699.99 | Save $600.00 / 35.3%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026): $699.99 (Was $899.99 | Save $200.00 / 22.2%)
+ • [TVs] 55" The Frame LS03HE 4K Samsung Vision AI Smart TV (2026): $1,399.99 (Was $1,699.99 | Save $300.00 / 17.6%)
+ • [TVs] 55" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (202...: $1,899.99 (Was $2,499.99 | Save $600.00 / 24.0%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026): $899.99 (Was $1,099.99 | Save $200.00 / 18.2%)
+ • [TVs] 65" OLED S85H 4K Samsung Vision AI Smart TV (2026): $1,299.99 (Was $1,999.99 | Save $700.00 / 35.0%)
+ • [TVs] 77" OLED S88H 4K Samsung Vision AI Smart TV (2026): $1,399.99 (Was $2,099.99 | Save $700.00 / 33.3%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026): $1,799.99 (Was $2,299.99 | Save $500.00 / 21.7%)
+ • [TVs] 55" OLED S92H 4K Samsung Vision AI Smart TV (2026): $1,899.99 (Was $2,399.99 | Save $500.00 / 20.8%)
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026): $2,499.99 (Was $2,999.99 | Save $500.00 / 16.7%)
+ • [TVs] 55" The Frame LS03HE 4K Samsung Vision AI Smart TV (2026): $1,699.99 (Was $1,999.99 | Save $300.00 / 15.0%)
+ • [TVs] 55" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (202...: $2,199.99 (Was $2,799.99 | Save $600.00 / 21.4%)
+ • [TVs] 75" The Terrace LST9D Neo QLED 4K Full Sun Outdoor Smart TV: $7,499.99 (Was $9,999.99 | Save $2,500.00 / 25.0%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026): $1,099.99 (Was $1,399.99 | Save $300.00 / 21.4%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026): $1,299.99 (Was $1,799.99 | Save $500.00 / 27.8%)
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026): $1,399.99 (Was $1,899.99 | Save $500.00 / 26.3%)
+ • [TVs] 65" Neo QLED 8K QN900F Vision AI Smart TV: $2,999.99 (Was $3,799.99 | Save $800.00 / 21.1%)
+ • [TVs] 65" OLED S85H 4K Samsung Vision AI Smart TV (2026): $1,699.99 (Was $2,499.99 | Save $800.00 / 32.0%)
+ • [TVs] 77" OLED S88H 4K Samsung Vision AI Smart TV (2026): $1,699.99 (Was $2,599.99 | Save $900.00 / 34.6%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026): $2,199.99 (Was $2,999.99 | Save $800.00 / 26.7%)
+ • [TVs] 55" OLED S92H 4K Samsung Vision AI Smart TV (2026): $2,299.99 (Was $3,099.99 | Save $800.00 / 25.8%)
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026): $3,299.99 (Was $3,999.99 | Save $700.00 / 17.5%)
+ • [TVs] 55" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (202...: $2,899.99 (Was $3,999.99 | Save $1,100.00 / 27.5%)
+ • [TVs] 75" The Terrace LST9D Neo QLED 4K Full Sun Outdoor Smart TV: $9,999.99 (Was $12,999.99 | Save $3,000.00 / 23.1%)
+ • [TVs] 85" Neo QLED QN1EH 4K Samsung Vision AI Smart TV (2026): $1,699.99 (Was $1,999.99 | Save $300.00 / 15.0%)
+ • [TVs] 75" Neo QLED QN70H 4K Samsung Vision AI Smart TV (2026): $1,599.99 (Was $1,999.99 | Save $400.00 / 20.0%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026): $1,699.99 (Was $2,499.99 | Save $800.00 / 32.0%)
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026): $1,799.99 (Was $2,599.99 | Save $800.00 / 30.8%)
+ • [TVs] 65" Neo QLED 8K QN900F Vision AI Smart TV: $3,999.99 (Was $4,999.99 | Save $1,000.00 / 20.0%)
+ • [TVs] 65" OLED S85H 4K Samsung Vision AI Smart TV (2026): $2,799.99 (Was $3,699.99 | Save $900.00 / 24.3%)
+ • [TVs] 77" OLED S88H 4K Samsung Vision AI Smart TV (2026): $2,499.99 (Was $3,799.99 | Save $1,300.00 / 34.2%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026): $3,499.99 (Was $4,499.99 | Save $1,000.00 / 22.2%)
+ • [TVs] 55" OLED S92H 4K Samsung Vision AI Smart TV (2026): $3,599.99 (Was $4,599.99 | Save $1,000.00 / 21.7%)
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026): $4,499.99 (Was $5,999.99 | Save $1,500.00 / 25.0%)
+ • [TVs] 65" OLED S85H 4K Samsung Vision AI Smart TV (2026): $3,999.99 (Was $5,499.99 | Save $1,500.00 / 27.3%)
+ • [TVs] 77" OLED S90H 4K Samsung Vision AI Smart TV (2026): $4,799.99 (Was $6,499.99 | Save $1,700.00 / 26.2%)
+ • [TVs] 65" OLED S95H 4K Samsung Vision AI Smart TV (2026): $6,299.99 (Was $7,999.99 | Save $1,700.00 / 21.3%)
+ • [TVs] 55" The Frame Pro LS03HW 4K Samsung Vision AI Smart TV (202...: $4,199.99 (Was $5,499.99 | Save $1,300.00 / 23.6%)
+ • [TVs] 85" Neo QLED QN80H 4K Samsung Vision AI Smart TV (2026): $2,199.99 (Was $3,499.99 | Save $1,300.00 / 37.1%)
+ • [TVs] 65" Neo QLED QN82H 4K Samsung Vision AI Smart TV (2026): $2,299.99 (Was $3,599.99 | Save $1,300.00 / 36.1%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,299.99 (Was $1,799.99 | Save $500.00 / 27.8%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,399.99 (Was $1,799.99 | Save $400.00 / 22.2%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,399.99 (Was $1,799.99 | Save $400.00 / 22.2%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,399.99 (Was $1,799.99 | Save $400.00 / 22.2%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,399.99 (Was $1,799.99 | Save $400.00 / 22.2%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,299.99 (Was $1,799.99 | Save $500.00 / 27.8%)
+ • [TVs] 27 The Movingstyle LSM7F QHD Touch Interaction Movable Scre...: $1,499.99 (Was $1,799.99 | Save $300.00 / 16.7%)
+ • [TVs] 100" Mini LED M90H 4K Samsung Vision AI Smart TV (2026): $2,699.99 (Was $3,499.99 | Save $800.00 / 22.9%)
+ • [TVs] 85" Mini LED M70H 4K Samsung Vision AI Smart TV 2026: $649.99 (Was $799.99 | Save $150.00 / 18.8%)
+ • [TVs] 85" Mini LED M72H 4K Samsung Vision AI Smart TV (2026): $649.99 (Was $849.99 | Save $200.00 / 23.5%)
+ • [TVs] 85" Mini LED M70H 4K Samsung Vision AI Smart TV 2026: $799.99 (Was $999.99 | Save $200.00 / 20.0%)
+ • [TVs] 75" Mini LED M80H 4K Samsung Vision AI Smart TV 2026: $899.99 (Was $1,199.99 | Save $300.00 / 25.0%)
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026): $899.99 (Was $1,199.99 | Save $300.00 / 25.0%)
+ • [TVs] 75" Mini LED M1EH 4K Samsung Vision AI Smart TV (2026): $999.99 (Was $1,299.99 | Save $300.00 / 23.1%)
+ • [TVs] 85" Mini LED M70H 4K Samsung Vision AI Smart TV 2026: $999.99 (Was $1,299.99 | Save $300.00 / 23.1%)
+ • [TVs] 75" Mini LED M80H 4K Samsung Vision AI Smart TV 2026: $1,299.99 (Was $1,699.99 | Save $400.00 / 23.5%)
+ • [TVs] 85" Mini LED M82H 4K Samsung Vision AI Smart TV (2026): $1,299.99 (Was $1,699.99 | Save $400.00 / 23.5%)
+ • [TVs] 75" Mini LED M1EH 4K Samsung Vision AI Smart TV (2026): $1,499.99 (Was $1,899.99 | Save $400.00 / 21.1%)
+ • [TVs] 85" Mini LED M70H 4K Samsung Vision AI Smart TV 2026: $1,199.99 (Was $1,899.99 | Save $700.00 / 36.8%)
+ • [TVs] 85" Mini LED M72H 4K Samsung Vision AI Smart TV (2026): $1,199.99 (Was $1,899.99 | Save $700.00 / 36.8%)
+ • [TVs] 75" Mini LED M80H 4K Samsung Vision AI Smart TV 2026: $1,799.99 (Was $2,299.99 | Save $500.00 / 21.7%)
+ • [TVs] 55" Crystal UHD U8000H 4K Samsung Vision AI Smart TV (2026): $1,099.99 (Was $1,499.99 | Save $400.00 / 26.7%)
+ • [TVs] 98" Crystal UHD U9000H 4K Samsung Vision AI Smart TV (2026): $1,999.99 (Was $2,999.99 | Save $1,000.00 / 33.3%)
+
+======================================================================
